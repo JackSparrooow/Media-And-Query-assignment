@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.main{
+    background-color: gray;
+    padding: 30px;
+    text-align: center;
+}
+
+@media screen and (max-width:620px){
+    .main{
+        background-color: blue;
+    }
+
+}
+    
